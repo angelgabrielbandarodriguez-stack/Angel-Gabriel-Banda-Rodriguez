@@ -3,7 +3,7 @@
 ![Imagen de presentación](https://estepais.com/wp-content/uploads/2020/05/imagenes-estepais-macaco.jpg)
 
 ## Descripción
-Breve introducción al tema que vas a presentar. Aquí puedes explicar el objetivo, el contexto o la importancia del contenido.
+Breve presentacion de la materia.
 
 ## Contenido principal
 - Nombre del alumno: Angel Gabriel Banda Rodriguez
@@ -12,3 +12,6 @@ Breve introducción al tema que vas a presentar. Aquí puedes explicar el objeti
 
 ## Tutorial:
 https://www.youtube.com/watch?v=Aq5WXmQQooo&list=RDAq5WXmQQooo&start_radio=1
+
+##IMAGEN:
+file:///C:/Users/Gabriel/Downloads/WhatsApp%20Image%202026-02-06%20at%2011.15.46%20AM.jpeg
